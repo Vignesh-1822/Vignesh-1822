@@ -24,7 +24,10 @@ I enjoy working across the stack — from designing user interfaces to building 
 
 ## ⚠️ Previous GitHub
 
-👉 https://github.com/vignesh1002
+I previously used another GitHub account for several older projects but unfortunately lost access to it.  
+You can still view that profile here:
+
+👉 **Previous GitHub:**  https://github.com/Vignesh1002
 
 ---
 
@@ -72,8 +75,34 @@ Built and scaled an internal CRM system used for dealer operations. Worked on fr
 
 ## 📖 Publication
 
-**An Efficient Vehicle Detection and Shadow Removal Using Gaussian Mixture Models with Blob Analysis**  
-Computer vision research focused on vehicle detection under varying lighting conditions.
+<table>
+<tr>
+<td width="60%" valign="top">
+ 
+**Secure Data Transmission in IoT Networks: A Machine Learning-Based Approach**
+<br/>ML-based security framework for IoT data pipelines · IEEE
+ 
+</td>
+<td width="40%" align="right" valign="top">
+ 
+[![IEEE](https://img.shields.io/badge/IEEE-View%20Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/10568602)
+ 
+</td>
+</tr>
+<tr>
+<td width="60%" valign="top">
+ 
+**Identification of Improper Posture in Female Bharatanatyam Dancers — A Computational Approach**
+<br/>Computer vision applied to classical dance biomechanics · IEEE
+ 
+</td>
+<td width="40%" align="right" valign="top">
+ 
+[![IEEE](https://img.shields.io/badge/IEEE-View%20Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/10134062)
+ 
+</td>
+</tr>
+</table>
 
 ---
 
