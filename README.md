@@ -53,10 +53,12 @@ Built and scaled an internal CRM system used for dealer operations. Worked on fr
 ---
 
 ### 📊 NOAA Dashboard
-> React · Drag-and-Drop UI · Data Visualization
+> React · Drag-and-Drop UI · PHP · Slim
 
 - Built interactive dashboard for meteorological workflows  
-- Reduced analysis setup time by 25%  
+- Reduced analysis setup time by 25%
+
+[→ View Project](https://cimss.ssec.wisc.edu/severe_conv/lightningcast-app-staging/#/)
 
 ---
 
