@@ -148,22 +148,25 @@ Built and scaled an internal CRM system used for dealer operations. Worked on fr
 ---
 
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="150"/>
-
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=Vignesh-1822&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="155"/>
+&nbsp;
+<img src="https://streak-stats.demolab.com?user=Vignesh-1822&theme=tokyonight&hide_border=true" height="155"/>
+ 
 </div>
-
+ 
 ---
-
+ 
 ## 🧠 LeetCode
-
+ 
 <div align="center">
-
+ 
 <img src="https://leetcard.jacoblin.cool/Vignesh_GR?theme=dark&font=baloo&ext=contest" height="200"/>
-
+&nbsp;
+<img src="https://streak-stats.demolab.com?user=Vignesh_GR&theme=dark&hide_border=true&background=1a1b27&ring=f0a500&fire=f0a500&currStreakLabel=f0a500" height="200"/>
+ 
 </div>
 
 ---
