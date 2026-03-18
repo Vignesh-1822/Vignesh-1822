@@ -144,7 +144,10 @@ Computer vision research focused on vehicle detection under varying lighting con
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:00c6ff&height=80&section=footer"/>
-
+ 
+*Building things at UW–Madison · Available May 2026 · Let's connect!*
+ 
+<!-- FOOTER — animated SVG. Save footer.svg in repo root -->
+<img src="./footer.svg" width="100%" alt="footer"/>
+ 
 </div>
