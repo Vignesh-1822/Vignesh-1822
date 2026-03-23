@@ -58,18 +58,20 @@ Built and scaled an internal CRM system used for dealer operations. Worked on fr
 ### 📊 NOAA Dashboard
 > React · Drag-and-Drop UI · PHP · Slim
 
-- Built interactive dashboard for meteorological workflows  
-- Reduced analysis setup time by 25%
+- Built a drag-and-drop dashboard for LightningCast, allowing users to customize and arrange visualizations for locations like airports, stadiums, and fire incidents  
+- Enabled real-time display of lightning probability predictions using dynamic, location-based graph components
 
 [→ View Project](https://cimss.ssec.wisc.edu/severe_conv/lightningcast-app-staging/#/)
 
 ---
 
-### 🌐 No-Code Portfolio Platform
-> Next.js · Zustand · TailwindCSS · FastAPI · Supabase
+### 🧊 GOES-R Ice & Snow Dashboard  
+> React · Image Visualization · PHP · Slim  
 
-- Built dynamic templates for real-time customization  
-- Reduced setup time by ~80%  
+- Built an interactive dashboard for GOES-R ABI ice and snow validation data, visualizing variables like ice concentration, temperature, thickness, and motion  
+- Enabled near real-time monitoring of GOES-18 and GOES-19 data with flexible hourly, daily, and weekly views
+
+[→ View Project](https://cimss.ssec.wisc.edu/goes-cryosphere-products/view/#/Oper_Ice_Concentration)
 
 ---
 
