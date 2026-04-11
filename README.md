@@ -53,7 +53,7 @@ Built and scaled an internal CRM system used for dealer operations. Worked on fr
 - Enabled live availability checks and booking using MCP integrations with Retell  
 - Designed a backend workflow to process voice inputs and manage appointment creation in real time
 
-- [→ View Source Code](https://github.com/Vignesh-1822/ai-receptionist)
+[→ View Source Code](https://github.com/Vignesh-1822/ai-receptionist)
 
 ---
 
