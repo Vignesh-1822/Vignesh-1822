@@ -46,12 +46,14 @@ Built and scaled an internal CRM system used for dealer operations. Worked on fr
 
 ## 🚀 Projects
 
-### ⚡ CloudFusion – AI DevOps Platform
-> LLM · LangGraph · Terraform · AWS · GCP · Azure · MCP · Docker · GitHub
+### ⚡ AI Voice Receptionist
+> Retell AI · NextJS · FastAPI · Supabase 
 
-- Generated Terraform-based IaC from natural language  
-- Built agent workflows for cost estimation and validation  
-- Integrated GitHub & Docker for execution  
+- Built an AI voice receptionist that handles real-time conversations and automates appointment scheduling through voice interactions  
+- Enabled live availability checks and booking using MCP integrations with Retell  
+- Designed a backend workflow to process voice inputs and manage appointment creation in real time
+
+- [→ View Source Code](https://github.com/Vignesh-1822/ai-receptionist)
 
 ---
 
@@ -61,7 +63,7 @@ Built and scaled an internal CRM system used for dealer operations. Worked on fr
 - Built a drag-and-drop dashboard for LightningCast, allowing users to customize and arrange visualizations for locations like airports, stadiums, and fire incidents  
 - Enabled real-time display of lightning probability predictions using dynamic, location-based graph components
 
-[→ View Project](https://cimss.ssec.wisc.edu/severe_conv/lightningcast-app-staging/#/)
+[→ View Project](https://cimss.ssec.wisc.edu/probsevere/lc/dashboard-staging/#/)
 
 ---
 
