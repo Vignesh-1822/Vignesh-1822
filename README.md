@@ -33,6 +33,9 @@ You can still view that profile here:
 
 ## 💼 Experience
 
+### 🔷 ABC Supply Co.
+Built an AI-powered product image validation platform to automate catalog QA workflows across large product inventories. Developed full-stack applications, GraphQL APIs, and automation workflows for validating product images and processing SKU data at scale.
+
 ### 🔷 Space Science and Engineering Center (SSEC)
 Worked on data-intensive applications for NOAA, building interactive dashboards and backend APIs to support real-time meteorological analysis. Focused on performance optimization, containerization, and cloud deployment using Kubernetes and AWS.
 
@@ -46,6 +49,19 @@ Built and scaled an internal CRM system used for dealer operations. Worked on fr
 
 ## 🚀 Projects
 
+### 🖼️ AI Product Image Validation Platform
+> React · TypeScript · FastAPI · GraphQL · PostgreSQL · OpenAI · n8n
+
+- Built a full-stack web application to validate product images against catalog descriptions and automate manual QA workflows  
+- Designed GraphQL APIs and backend services to process SKU data and support large-scale image validation pipelines  
+- Built an automation workflow using n8n to automatically trigger image validation whenever new product data is added to the database
+
+<p>
+  <a href="https://github.com/Vignesh-1822/image-analysis-tool" target="_blank" rel="noopener noreferrer">
+    → View Source Code
+  </a>
+</p>
+
 ### ⚡ AI Voice Receptionist
 > Retell AI · NextJS · FastAPI · Supabase 
 
@@ -53,7 +69,11 @@ Built and scaled an internal CRM system used for dealer operations. Worked on fr
 - Enabled live availability checks and booking using MCP integrations with Retell  
 - Designed a backend workflow to process voice inputs and manage appointment creation in real time
 
-[→ View Source Code](https://github.com/Vignesh-1822/ai-receptionist)
+<p>
+  <a href="https://github.com/Vignesh-1822/ai-receptionist" target="_blank" rel="noopener noreferrer">
+    → View Source Code
+  </a>
+</p>
 
 ---
 
@@ -63,7 +83,11 @@ Built and scaled an internal CRM system used for dealer operations. Worked on fr
 - Built a drag-and-drop dashboard for LightningCast, allowing users to customize and arrange visualizations for locations like airports, stadiums, and fire incidents  
 - Enabled real-time display of lightning probability predictions using dynamic, location-based graph components
 
-[→ View Project](https://cimss.ssec.wisc.edu/probsevere/lc/dashboard-staging/#/)
+<p>
+  <a href="https://cimss.ssec.wisc.edu/probsevere/lc/dashboard-staging/#/" target="_blank" rel="noopener noreferrer">
+    → View Project 
+  </a>
+</p>
 
 ---
 
@@ -73,7 +97,11 @@ Built and scaled an internal CRM system used for dealer operations. Worked on fr
 - Built an interactive dashboard for GOES-R ABI ice and snow validation data, visualizing variables like ice concentration, temperature, thickness, and motion  
 - Enabled near real-time monitoring of GOES-18 and GOES-19 data with flexible hourly, daily, and weekly views
 
-[→ View Project](https://cimss.ssec.wisc.edu/goes-cryosphere-products/view/#/Oper_Ice_Concentration)
+<p>
+  <a href="https://cimss.ssec.wisc.edu/goes-cryosphere-products/view/#/Oper_Ice_Concentration" target="_blank" rel="noopener noreferrer">
+    → View Project
+  </a>
+</p>
 
 ---
 
